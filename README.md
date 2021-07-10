@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ss467" alt="ss467" /></a> </p>
 
-- 🔭 I’m currently working on **COMPUTER VISION**
+- 🔭 I’m currently working on **AI AND ML MODELS**
 
-- 🌱 I’m currently learning **Data science and Machine learning with application of Computer vision on Full self Driving Cars**
+- 🌱 I’m currently learning **Data science and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Data science and Machinelearning**
 
 - 💬 Ask me about **Web developing**
 
-- 📫 How to reach me **srivatsajoshi007@gmail.com**
+- 📫 How to reach me **srivatsajoshi180@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
