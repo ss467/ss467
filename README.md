@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/srivatsa joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="srivatsa joshi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/srivatsa joshi" target="blank"><img align="center" src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ab/d2/5e/abd25e95-4c64-55ee-e08f-4b509055e0c8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" alt="srivatsa joshi" height="30" width="40" /></a>
 <a href="https://medium.com/@srivatsajoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@srivatsajoshi" height="30" width="40" /></a>
 </p>
 
