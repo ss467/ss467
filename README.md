@@ -4,12 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer ! AI ML Beginner
 -----------------------------------------
 
-I have been developing websites for 2 years and have a pretty good grip. UI/UX Lead @GDSCJSSSTU
+I have been developing websites for 2 years and have a pretty good grip. Tech Lead @GDSCJSSSTU
 
 * 🌍  I'm based in Mysore
 * ✉️  You can contact me at [srivatsajoshi180@gmail.com](mailto:srivatsajoshi180@gmail.com)
-* 🧠  I'm learning Data Science and Machine learning
-* 🤝  I'm open to collaborating on Web-development projects
 
 ### Skills
 
